@@ -1,0 +1,22 @@
+{
+  "name": "xpert-task",
+  "version": "1.0.0",
+  "description": "task manager",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clyde-dot/xpert-task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clyde-dot/xpert-task/issues"
+  },
+  "homepage": "https://github.com/clyde-dot/xpert-task#readme",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    
+  }
+}
